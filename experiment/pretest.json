@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "If the point lies in the fourth quadrant it’s front view will lie _____ XY line",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "above",
+        "b": "below",
+        "c": "on the",
+        "d": "none"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "If a point P is placed in between the projection planes. The distance from side view to reference line towards front view and the distance between top view and reference line towards top view will be same.",
+      "answers": {
+        "a": "true",
+        "b": "false",
+        "c": "can't say",
+        "d": "none of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "A point in 2nd quadrant is 15cm away from both the horizontal and vertical plane and orthographic projection are drawn. The distance between the points formed by front view and top view is ____",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "0",
+        "b": "30",
+        "c": "15",
+        "d": "15+ from profile plane"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Projection of a point in the third quadrant will be",
+      "answers": {
+        "a": "Front view in VP",
+        "b": "ront view in HP",
+        "c": "Front view in PP",
+        "d": "none"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
+    },
+    {
+     "question": "Projection of a point in the first quadrant will be",
+     "answers": {
+       "a": "Front view in VP",
+       "b": "ront view in HP",
+       "c": "Front view in PP",
+       "d": "none"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
     }
   ]
 }
