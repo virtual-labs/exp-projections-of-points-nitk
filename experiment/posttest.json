@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Two points are placed in 1st quadrant of projection planes such that the line joining the points is perpendicular to the profile plane the side view and top view will be ____?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Single point, Two-point",
+        "b": "Two-point, Single point",
+        "c": "Single point, Single point",
+        "d": "Two-point,Two-point"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "A point is 5m away from the VP and 4m away from PP and 3m away from the HP in 1st quadrant then projections are drawn on paper the distance between the front view and top view is _____",
+      "answers": {
+        "a": "7m",
+        "b": "8m",
+        "c": "9m",
+        "d": "5m"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": " If the point lies on XY line then it lies ___     ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "First quadrant",
+        "b": "Second quadrant",
+        "c": "Third quadrant",
+        "d": "Lies on the origin"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "If the point is 4m in front of VP and 3m above HP then in XY line divide the distance between the front view and top view in ____ ratio",
+      "answers": {
+        "a": "4:3",
+        "b": "3:4",
+        "c": "7:4",
+        "d": "7:3"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+     "question": " Front view and top view projection of point lies in above XY line in orthographic projection, then its X and Y coordinates are",
+     "answers": {
+       "a": "Positive and Negative",
+       "b": "Positive and Positive",
+       "c": "Negative and Positive",
+       "d": "Negative and Negative"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": "advanced"
     }
   ]
 }
