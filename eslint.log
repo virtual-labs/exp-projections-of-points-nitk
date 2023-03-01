@@ -1,0 +1,15 @@
+
+/home/runner/work/exp-projections-of-points-nitk/exp-projections-of-points-nitk/experiment/simulation/js/exp2.js
+  58:10  warning  'updatewidth' is defined but never used         no-unused-vars
+  61:10  warning  'updatesliderwidth' is defined but never used   no-unused-vars
+  64:10  warning  'updatesliderheight' is defined but never used  no-unused-vars
+  67:10  warning  'updateheight' is defined but never used        no-unused-vars
+  70:10  warning  'writeMessage' is defined but never used        no-unused-vars
+  73:10  warning  'getMousePos' is defined but never used         no-unused-vars
+  74:7   warning  'canvas' is already defined                     no-redeclare
+  75:7   warning  'context' is assigned a value but never used    no-unused-vars
+  82:10  warning  'newa' is defined but never used                no-unused-vars
+  97:10  warning  'updatecanvas1' is defined but never used       no-unused-vars
+
+✖ 10 problems (0 errors, 10 warnings)
+
