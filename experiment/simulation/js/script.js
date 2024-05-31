@@ -100,16 +100,16 @@ function updateQuadrant() {
   let m1 = m - 250;
   let k1 = -k + 225;
   if (m1 < 0 && k1 > 0) {
-    quadrantImg.src = "../images/2.png";
+    quadrantImg.src = "../images/quad2.png";
     quadrant = 2;
   } else if (k1 < 0 && m1 > 0) {
-    quadrantImg.src = "../images/4.png";
+    quadrantImg.src = "../images/quad4.png";
     quadrant = 4;
   } else if (k1 < 0 && m1 < 0) {
-    quadrantImg.src = "../images/3.png";
+    quadrantImg.src = "../images/quad3.png";
     quadrant = 3;
   } else {
-    quadrantImg.src = "../images/1.png";
+    quadrantImg.src = "../images/quad1.png";
     quadrant = 1;
   }
 }
