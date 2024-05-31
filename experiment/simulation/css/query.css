@@ -98,9 +98,7 @@ em:current font size
     justify-content: space-evenly;
     padding: 1rem;
   }
-  .main-section {
-    grid-template-columns: 1fr;
-  }
+
   .logo-div {
     width: 6.5rem;
   }
@@ -120,12 +118,7 @@ em:current font size
     height: 100%;
     /* background-color: red; */
   }
-  .main-section {
-    grid-template-columns: 1fr;
-  }
-  .canvas__div {
-    grid-template-columns: 1fr;
-  }
+
   .canvas {
     display: block;
     width: 100%;
@@ -139,12 +132,6 @@ em:current font size
 /* Below 820px (Smaller Tablets) */
 /* **************************** */
 @media (max-width: 48em) {
-  .main-section {
-    grid-template-columns: 1fr;
-  }
-  .canvas__div {
-    grid-template-columns: 1fr;
-  }
   .canvas {
     display: block;
     width: 100%;
@@ -161,9 +148,6 @@ em:current font size
 /* Below 704px (Smaller Tablets) */
 /* **************************** */
 @media (max-width: 44em) {
-  .canvas__div {
-    grid-template-columns: 1fr;
-  }
   .img-div {
     flex-direction: column;
   }
@@ -200,6 +184,9 @@ em:current font size
 /* Below 540px (Smaller Tablets) */
 /* **************************** */
 @media (max-width: 34em) {
+  .main-section {
+    grid-template-columns: 1fr;
+  }
   .container {
     padding: 0.5rem;
     gap: 1rem;
