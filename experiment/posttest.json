@@ -10,10 +10,10 @@
         "d": "Two-point,Two-point"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Correct, The right answer is (a). The side view (SV) will show the line as a vertical projection along the YZ plane and the top view (TV) will show the line as a horizontal projection parallel to the XY line. So, the side view and top view will be single point and two-point.",
+        "b": "The right answer is (a). The side view (SV) will show the line as a vertical projection along the YZ plane and the top view (TV) will show the line as a horizontal projection parallel to the XY line. So, the side view and top view will be single point and two-point.",
+        "c": "The right answer is (a). The side view (SV) will show the line as a vertical projection along the YZ plane and the top view (TV) will show the line as a horizontal projection parallel to the XY line. So, the side view and top view will be single point and two-point.",
+        "d": "The right answer is (a). The side view (SV) will show the line as a vertical projection along the YZ plane and the top view (TV) will show the line as a horizontal projection parallel to the XY line. So, the side view and top view will be single point and two-point."
       },
       "correctAnswer": "a",
       "difficulty": "intermediate"
@@ -22,15 +22,15 @@
       "question": "A point is 5m away from the VP and 4m away from PP and 3m away from the HP in 1st quadrant then projections are drawn on paper the distance between the front view and top view is _____",
       "answers": {
         "a": "7m",
-        "b": "8m",
+        "b": "1m",
         "c": "9m",
         "d": "5m"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (b). Using the distance formula, Distance = sqrt((x2 - x1)^2 + (y2 - y1)^2). Front view projection (x1,y1)= (5,4) and Top view projection (x2,y2)= (5,3). So, Distance = sqrt((5 - 5)^2 + (3 - 4)^2)= 1m.",
+        "b": "Correct, The right answer is (b). Using the distance formula, Distance = sqrt((x2 - x1)^2 + (y2 - y1)^2). Front view projection (x1,y1)= (5,4) and Top view projection (x2,y2)= (5,3). So, Distance = sqrt((5 - 5)^2 + (3 - 4)^2)= 1m.",
+        "c": "The right answer is (b). Using the distance formula, Distance = sqrt((x2 - x1)^2 + (y2 - y1)^2). Front view projection (x1,y1)= (5,4) and Top view projection (x2,y2)= (5,3). So, Distance = sqrt((5 - 5)^2 + (3 - 4)^2)= 1m.",
+        "d": "The right answer is (b). Using the distance formula, Distance = sqrt((x2 - x1)^2 + (y2 - y1)^2). Front view projection (x1,y1)= (5,4) and Top view projection (x2,y2)= (5,3). So, Distance = sqrt((5 - 5)^2 + (3 - 4)^2)= 1m."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "Lies on the origin"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (d). if a point lies in the first quadrant, Then it is above the XY line.",
+        "b": "The right answer is (d). if a point lies in the second quadrant, Then it is above the XY line",
+        "c": "The right answer is (d).if a point lies in the third quadrant, Then it is below the XY line",
+        "d": "Correct, the right answer is (d), When a point lies on the XY line, it means that its coordinates are both zero. In other words, the point is located at the origin, which is where the horizontal (X) and vertical (Y) axes intersect."
       },
       "correctAnswer": "d",
       "difficulty": "advanced"
@@ -61,10 +61,10 @@
         "d": "7:3"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Correct, The right answer is (a). The total distance is 4+3 = 7m. The distance from the FV to the XY line (4 meters) is 4/7 of the total distance. The distance from the TV to the XY line (3 meters) is 3/7 of the total distance. Therefore, The ratio is 4:3.",
+        "b": "The right answer is (a). The total distance is 4+3 = 7m. The distance from the FV to the XY line (4 meters) is 4/7 of the total distance. The distance from the TV to the XY line (3 meters) is 3/7 of the total distance. Therefore, The ratio is 4:3.",
+        "c": "The right answer is (a). The total distance is 4+3 = 7m. The distance from the FV to the XY line (4 meters) is 4/7 of the total distance. The distance from the TV to the XY line (3 meters) is 3/7 of the total distance. Therefore, The ratio is 4:3.",
+        "d": "The right answer is (a). The total distance is 4+3 = 7m. The distance from the FV to the XY line (4 meters) is 4/7 of the total distance. The distance from the TV to the XY line (3 meters) is 3/7 of the total distance. Therefore, The ratio is 4:3."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
        "d": "Negative and Negative"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (c). If the front view projection and top view projection of point lies in below XY line in orthographic projection, then the corresponding quadrant is fourth quadrant. So, its X and Y coordinates are positive and negative.",
+        "b": "The right answer is (c). If the front view projection of point lies in above XY plane and top view projection of point lies in below XY line in orthographic projection, then the corresponding quadrant is first quadrant. So, its X and Y coordinates are positive and positive.",
+        "c": "Correct, The right answer is (c). If the front view and top view projection of point lies in above XY line in orthographic projection, then the corresponding quadrant is second quadrant. So, its X and Y coordinates are negative and positive",
+        "d": "The right answer is (c).If the front view projection of point lies in below XY plane and top view projection of point lies in above XY line in orthographic projection, then the corresponding quadrant is third quadrant. So, its X and Y coordinates are negative and negative"
       },
       "correctAnswer": "c",
       "difficulty": "advanced"

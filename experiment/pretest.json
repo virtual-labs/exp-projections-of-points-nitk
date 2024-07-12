@@ -10,10 +10,10 @@
         "d": "none"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (b). When a point lies in the first and second quadrant, its front view will be above the XY line (the X-axis).",
+        "b": "Correct. The right answer is (b). When a point lies in the fourth quadrant (both x and y are negative), its front view will be below the XY line (the X-axis). Now Imagine looking at the object from the front (along the negative Y-axis). The features of the object will appear below the XY line in the front view.",
+        "c": "The right answer is (b). The XY line is the dividing line between the upper and lower halves of the plane. Points on the XY line have a Y coordinate of zero.  The front view of a point in the fourth quadrant lies below the XY line because the Y coordinate is negative in that quadrant. So, There won't be any view if the point is on XY line",
+        "d": "The right answer is (b). When a point lies in the fourth quadrant (both x and y are negative), its front view will be below the XY line (the X-axis). Now Imagine looking at the object from the front (along the negative Y-axis). The features of the object will appear below the XY line in the front view."
       },
       "correctAnswer": "b",
       "difficulty": "intermediate"
@@ -27,12 +27,12 @@
         "d": "none of these"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (b), Since the front view and top view represent different projections of the same point, the distances will generally be different unless point P lies on one of the projection planes",
+        "b": "Correct. The right answer is (b), Since the front view and top view represent different projections of the same point, the distances will generally be different unless point P lies on one of the projection planes ",
+        "c": "The right answer is (b), Since the front view and top view represent different projections of the same point, the distances will generally be different unless point P lies on one of the projection planes",
+        "d": "The right answer is (b), Since the front view and top view represent different projections of the same point, the distances will generally be different unless point P lies on one of the projection planes"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
@@ -44,10 +44,10 @@
         "d": "15+ from profile plane"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Correct. The right answer is 0. The distance between the points formed by front view and top view is 0.",
+        "b": "The right answer is (a). The distance between the points formed by front view and top view is 0.",
+        "c": "The right answer is (a). The distance between the points formed by front view and top view is 0.",
+        "d": "The right answer is (a). The distance between the points formed by front view and top view is 0."
       },
       "correctAnswer": "a",
       "difficulty": "advanced"
@@ -56,15 +56,15 @@
       "question": "Projection of a point in the third quadrant will be",
       "answers": {
         "a": "Front view in VP",
-        "b": "ront view in HP",
+        "b": "Front view in HP",
         "c": "Front view in PP",
         "d": "none"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Correct, The right answer is (a). In both the front view and top view, the projection of a point from the third quadrant lies below the XY line. This consistency ensures that the front view in the VP corresponds to the projection of points from the third quadrant.",
+        "b": "The right answer is (a). The projection of a point in the third quadrant will be Side view in HP.",
+        "c": "The right answer is (a). The profile plane (PP) represents the projection of points onto a plane perpendicular to the front view (YZ plane). In the case of a point in the third quadrant, its projection onto the profile plane (PP) would be along the XZ plane. However, this projection does not provide meaningful information about the point’s position relative to the front view.",
+        "d": "The right answer is (a). In both the front view and top view, the projection of a point from the third quadrant lies below the XY line. This consistency ensures that the front view in the VP corresponds to the projection of points from the third quadrant."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -73,15 +73,15 @@
      "question": "Projection of a point in the first quadrant will be",
      "answers": {
        "a": "Front view in VP",
-       "b": "ront view in HP",
+       "b": "Front view in HP",
        "c": "Front view in PP",
        "d": "none"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (b). The front view in the HP corresponds to the projection of points from the first quadrant because both front and top views place the projection above the XY line.",
+        "b": "Correct, The right answer is (b). The front view in the HP corresponds to the projection of points from the first quadrant because both front and top views place the projection above the XY line.",
+        "c": "The right answer is (b). The profile plane (PP) represents the projection of points onto a plane perpendicular to the front view (YZ plane). In the case of a point in the first quadrant, its projection onto the profile plane (PP) would be along the XZ plane. However, this projection does not provide meaningful information about the point’s position relative to the front view.",
+        "d": "The right answer is (b). The front view in the HP corresponds to the projection of points from the first quadrant because both front and top views place the projection above the XY line"
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
