@@ -1,18 +1,19 @@
+### Procedure
 
-1.  .**Open the simulation**, the screen will display a cartesian plane **with a
-    control panel** on it.
+<div style="text-align:left">
+  Click on the Simulation icon <img src="images/simulation.png" alt="Alt text" style="height:80px; width:80px;">  to view the simulation. 
 
-![](images/storyboard1.png)
+   ![Alt text](images/Simscreen1.png)
+   
+   In order to view the variable section click on the Variable icon. <img src="images/var1.png" alt="Alt text" style="height:80px; width:80px;">
 
-2.  .Then **set the X and Y- coordinates of the point** from the panel. **Click
-    on the button on the left** for the exact position of a point in the
-    cartesian plane along with 3D orientation.
+   ![Alt text](images/var2.png)
 
-![](images/storyboard2.png)
+   
+ 
+   Click on the Next icon  <img src="images/next2.png" alt="Alt text" style="height:80px; width:80px;"> to cycle through different pages.  
 
-3.  .**Click on the button on the right** for the next step
+   ![Alt text](images/screen2.png)
 
-![](images/storyboard3.png)
 
-Here the simulation step ends and **for the previous step click on the button on
-the right**.
+</div>
