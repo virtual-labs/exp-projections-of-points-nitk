@@ -72,11 +72,15 @@ Convention:-
 
 OBSERVER’S PERSPECTIVE
 
-Point A is Placed In different quadrants and it’s Fv & Tv are brought in same
-plane for Observer to see clearly. Fv is visible as it is a view on VP. But as
-Tv is is a view on Hp, it is rotated downward 90 0 , In clockwise direction. The
-In front part of Hp comes below xy line and the part behind Vp comes above.
-Observe and note the process.
+Envision a scenario in which Point A is positioned within distinct quadrants of a three-dimensional space. This conceptualization aids in understanding the spatial dynamics and distribution of points within a Cartesian coordinate system, providing a foundational basis for further exploration in spatial analysis and geometric interpretations. 
+To make it easier for an observer to see both the Front View (FV) and Top View (TV) of Point A in a single plane, we need to rotate the TV 90 degrees clockwise.
+
+•	FV: It remains unchanged since it's a view on the Vertical Plane (VP).
+
+•	TV: Being a view on the Horizontal Plane (HP), it needs to be rotated. The part of the HP in front of the Vertical Plane (VP) now appears below the XY line, and the part behind the VP appears above.
+
+By observing this process, you'll understand how the 3D perspective of Point A can be represented in a 2D plane for better visualisation
+
 
 <div style="text-align: center">
 

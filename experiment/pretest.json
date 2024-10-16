@@ -78,12 +78,12 @@
        "d": "none"
       },
       "explanations": {
-        "a": "The right answer is (b). The front view in the HP corresponds to the projection of points from the first quadrant because both front and top views place the projection above the XY line.",
-        "b": "Correct, The right answer is (b). The front view in the HP corresponds to the projection of points from the first quadrant because both front and top views place the projection above the XY line.",
-        "c": "The right answer is (b). The profile plane (PP) represents the projection of points onto a plane perpendicular to the front view (YZ plane). In the case of a point in the first quadrant, its projection onto the profile plane (PP) would be along the XZ plane. However, this projection does not provide meaningful information about the point’s position relative to the front view.",
-        "d": "The right answer is (b). The front view in the HP corresponds to the projection of points from the first quadrant because both front and top views place the projection above the XY line"
+        "a": "The right answer is (c). Although orthographic projection involves the Vertical Plane (VP), a point in the first quadrant's front view is not immediately on the VP. The Projection Plane (PP), which is usually positioned in front of the item, is where it is projected instead. ",
+        "b": "The right answer is (c). For top views, the Horizontal Plane (HP) is utilized. Instead of the HP, a front view would be projected onto the PP.",
+        "c": "Correct, The right answer is (c).  The purpose of the Projection Plane (PP) is to receive projections of objects and points from various angles. A point in the first quadrant's front view would be projected onto the PP to display how it looks from the front.",
+        "d": "The right answer is (c). The front view in the first quadrant will be projected onto the PP"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "c",
       "difficulty": "advanced"
     }
   ]
