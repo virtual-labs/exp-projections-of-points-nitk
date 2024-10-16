@@ -22,15 +22,15 @@
       "question": "A point is 5m away from the VP and 4m away from PP and 3m away from the HP in 1st quadrant then projections are drawn on paper the distance between the front view and top view is _____",
       "answers": {
         "a": "7m",
-        "b": "1m",
+        "b": "8m",
         "c": "9m",
         "d": "5m"
       },
       "explanations": {
-        "a": "The right answer is (b). Using the distance formula, Distance = sqrt((x2 - x1)^2 + (y2 - y1)^2). Front view projection (x1,y1)= (5,4) and Top view projection (x2,y2)= (5,3). So, Distance = sqrt((5 - 5)^2 + (3 - 4)^2)= 1m.",
-        "b": "Correct, The right answer is (b). Using the distance formula, Distance = sqrt((x2 - x1)^2 + (y2 - y1)^2). Front view projection (x1,y1)= (5,4) and Top view projection (x2,y2)= (5,3). So, Distance = sqrt((5 - 5)^2 + (3 - 4)^2)= 1m.",
-        "c": "The right answer is (b). Using the distance formula, Distance = sqrt((x2 - x1)^2 + (y2 - y1)^2). Front view projection (x1,y1)= (5,4) and Top view projection (x2,y2)= (5,3). So, Distance = sqrt((5 - 5)^2 + (3 - 4)^2)= 1m.",
-        "d": "The right answer is (b). Using the distance formula, Distance = sqrt((x2 - x1)^2 + (y2 - y1)^2). Front view projection (x1,y1)= (5,4) and Top view projection (x2,y2)= (5,3). So, Distance = sqrt((5 - 5)^2 + (3 - 4)^2)= 1m."
+        "a": "The right answer is (b). When projected, the front view will be 3m above the XY line and the top view will be 5m below the XY line. The distance between them is 8m",
+        "b": "Correct, The right answer is (b). When projected, the front view will be 3m above the XY line and the top view will be 5m below the XY line. The distance between them is 8m",
+        "c": "The right answer is (b). When projected, the front view will be 3m above the XY line and the top view will be 5m below the XY line. The distance between them is 8m",
+        "d": "The right answer is (b). When projected, the front view will be 3m above the XY line and the top view will be 5m below the XY line. The distance between them is 8m"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
