@@ -87,6 +87,10 @@ em:current font size
     justify-content: space-evenly;
     border-radius: 0;
     scroll-behavior: auto;
+    margin: 0;
+  }
+  .main {
+    grid-column: 1/-1;
   }
   .tool-menu {
     list-style: none;
@@ -186,10 +190,6 @@ em:current font size
 @media (max-width: 34em) {
   .main-section {
     grid-template-columns: 1fr;
-  }
-  .container {
-    padding: 0.5rem;
-    gap: 1rem;
   }
 
   .title-div h1 {

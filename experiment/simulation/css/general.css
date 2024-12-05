@@ -24,6 +24,7 @@ html {
   /* font-family: "comic sans MS", sans-serif; */
   font-family: "Nunito", sans-serif;
   scroll-behavior: smooth;
+  -webkit-tap-highlight-color: transparent;
 }
 
 body {
@@ -46,12 +47,12 @@ input {
 } */
 
 ::-webkit-scrollbar {
-  width: 0.5rem;
+  width: 0.25rem;
   left: -5rem;
 }
 
 ::-moz-scrollbar {
-  width: 0.5rem;
+  width: 0.25rem;
   left: -5rem;
 }
 
