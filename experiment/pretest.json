@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "If the point lies in the fourth quadrant it’s front view will lie _____ XY line",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "above",
+        "b": "below",
+        "c": "on the",
+        "d": "none"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The right answer is (b). When a point lies in the first and second quadrant, its front view will be above the XY line (the X-axis).",
+        "b": "Correct. The right answer is (b). When a point lies in the fourth quadrant (both x and y are negative), its front view will be below the XY line (the X-axis). Now Imagine looking at the object from the front (along the negative Y-axis). The features of the object will appear below the XY line in the front view.",
+        "c": "The right answer is (b). The XY line is the dividing line between the upper and lower halves of the plane. Points on the XY line have a Y coordinate of zero.  The front view of a point in the fourth quadrant lies below the XY line because the Y coordinate is negative in that quadrant. So, There won't be any view if the point is on XY line",
+        "d": "The right answer is (b). When a point lies in the fourth quadrant (both x and y are negative), its front view will be below the XY line (the X-axis). Now Imagine looking at the object from the front (along the negative Y-axis). The features of the object will appear below the XY line in the front view."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "If a point P is placed in between the projection planes. The distance from side view to reference line towards front view and the distance between top view and reference line towards top view will be same.",
+      "answers": {
+        "a": "true",
+        "b": "false",
+        "c": "can't say",
+        "d": "none of these"
+      },
+      "explanations": {
+        "a": "The right answer is (b), Since the front view and top view represent different projections of the same point, the distances will generally be different unless point P lies on one of the projection planes",
+        "b": "Correct. The right answer is (b), Since the front view and top view represent different projections of the same point, the distances will generally be different unless point P lies on one of the projection planes ",
+        "c": "The right answer is (b), Since the front view and top view represent different projections of the same point, the distances will generally be different unless point P lies on one of the projection planes",
+        "d": "The right answer is (b), Since the front view and top view represent different projections of the same point, the distances will generally be different unless point P lies on one of the projection planes"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A point in 2nd quadrant is 15cm away from both the horizontal and vertical plane and orthographic projection are drawn. The distance between the points formed by front view and top view is ____",
+      "answers": {
+        "a": "0",
+        "b": "30",
+        "c": "15",
+        "d": "15+ from profile plane"
+      },
+      "explanations": {
+        "a": "Correct. The right answer is 0. The distance between the points formed by front view and top view is 0.",
+        "b": "The right answer is (a). The distance between the points formed by front view and top view is 0.",
+        "c": "The right answer is (a). The distance between the points formed by front view and top view is 0.",
+        "d": "The right answer is (a). The distance between the points formed by front view and top view is 0."
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Projection of a point in the third quadrant will be",
+      "answers": {
+        "a": "Front view in VP",
+        "b": "Front view in HP",
+        "c": "Front view in PP",
+        "d": "none"
+      },
+      "explanations": {
+        "a": "Correct, The right answer is (a). In both the front view and top view, the projection of a point from the third quadrant lies below the XY line. This consistency ensures that the front view in the VP corresponds to the projection of points from the third quadrant.",
+        "b": "The right answer is (a). The projection of a point in the third quadrant will be Side view in HP.",
+        "c": "The right answer is (a). The profile plane (PP) represents the projection of points onto a plane perpendicular to the front view (YZ plane). In the case of a point in the third quadrant, its projection onto the profile plane (PP) would be along the XZ plane. However, this projection does not provide meaningful information about the point’s position relative to the front view.",
+        "d": "The right answer is (a). In both the front view and top view, the projection of a point from the third quadrant lies below the XY line. This consistency ensures that the front view in the VP corresponds to the projection of points from the third quadrant."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+     "question": "Projection of a point in the first quadrant will be",
+     "answers": {
+       "a": "Front view in VP",
+       "b": "Front view in HP",
+       "c": "Front view in PP",
+       "d": "none"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The right answer is (c). Although orthographic projection involves the Vertical Plane (VP), a point in the first quadrant's front view is not immediately on the VP. The Projection Plane (PP), which is usually positioned in front of the item, is where it is projected instead. ",
+        "b": "The right answer is (c). For top views, the Horizontal Plane (HP) is utilized. Instead of the HP, a front view would be projected onto the PP.",
+        "c": "Correct, The right answer is (c).  The purpose of the Projection Plane (PP) is to receive projections of objects and points from various angles. A point in the first quadrant's front view would be projected onto the PP to display how it looks from the front.",
+        "d": "The right answer is (c). The front view in the first quadrant will be projected onto the PP"
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": "advanced"
     }
   ]
 }

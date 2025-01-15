@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Two points are placed in 1st quadrant of projection planes such that the line joining the points is perpendicular to the profile plane the side view and top view will be ____?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Single point, Two-point",
+        "b": "Two-point, Single point",
+        "c": "Single point, Single point",
+        "d": "Two-point,Two-point"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct, The right answer is (a). The side view (SV) will show the line as a vertical projection along the YZ plane and the top view (TV) will show the line as a horizontal projection parallel to the XY line. So, the side view and top view will be single point and two-point.",
+        "b": "The right answer is (a). The side view (SV) will show the line as a vertical projection along the YZ plane and the top view (TV) will show the line as a horizontal projection parallel to the XY line. So, the side view and top view will be single point and two-point.",
+        "c": "The right answer is (a). The side view (SV) will show the line as a vertical projection along the YZ plane and the top view (TV) will show the line as a horizontal projection parallel to the XY line. So, the side view and top view will be single point and two-point.",
+        "d": "The right answer is (a). The side view (SV) will show the line as a vertical projection along the YZ plane and the top view (TV) will show the line as a horizontal projection parallel to the XY line. So, the side view and top view will be single point and two-point."
       },
       "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "A point is 5m away from the VP and 4m away from PP and 3m away from the HP in 1st quadrant then projections are drawn on paper the distance between the front view and top view is _____",
+      "answers": {
+        "a": "7m",
+        "b": "8m",
+        "c": "9m",
+        "d": "5m"
+      },
+      "explanations": {
+        "a": "The right answer is (b). When projected, the front view will be 3m above the XY line and the top view will be 5m below the XY line. The distance between them is 8m",
+        "b": "Correct, The right answer is (b). When projected, the front view will be 3m above the XY line and the top view will be 5m below the XY line. The distance between them is 8m",
+        "c": "The right answer is (b). When projected, the front view will be 3m above the XY line and the top view will be 5m below the XY line. The distance between them is 8m",
+        "d": "The right answer is (b). When projected, the front view will be 3m above the XY line and the top view will be 5m below the XY line. The distance between them is 8m"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": " If the point lies on XY line then it lies ___     ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "First quadrant",
+        "b": "Second quadrant",
+        "c": "Third quadrant",
+        "d": "Lies on the origin"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The right answer is (d). if a point lies in the first quadrant, Then it is above the XY line.",
+        "b": "The right answer is (d). if a point lies in the second quadrant, Then it is above the XY line",
+        "c": "The right answer is (d).if a point lies in the third quadrant, Then it is below the XY line",
+        "d": "Correct, the right answer is (d), When a point lies on the XY line, it means that its coordinates are both zero. In other words, the point is located at the origin, which is where the horizontal (X) and vertical (Y) axes intersect."
+      },
+      "correctAnswer": "d",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "If the point is 4m in front of VP and 3m above HP then in XY line divide the distance between the front view and top view in ____ ratio",
+      "answers": {
+        "a": "4:3",
+        "b": "3:4",
+        "c": "7:4",
+        "d": "7:3"
+      },
+      "explanations": {
+        "a": "Correct, The right answer is (a). The total distance is 4+3 = 7m. The distance from the FV to the XY line (4 meters) is 4/7 of the total distance. The distance from the TV to the XY line (3 meters) is 3/7 of the total distance. Therefore, The ratio is 4:3.",
+        "b": "The right answer is (a). The total distance is 4+3 = 7m. The distance from the FV to the XY line (4 meters) is 4/7 of the total distance. The distance from the TV to the XY line (3 meters) is 3/7 of the total distance. Therefore, The ratio is 4:3.",
+        "c": "The right answer is (a). The total distance is 4+3 = 7m. The distance from the FV to the XY line (4 meters) is 4/7 of the total distance. The distance from the TV to the XY line (3 meters) is 3/7 of the total distance. Therefore, The ratio is 4:3.",
+        "d": "The right answer is (a). The total distance is 4+3 = 7m. The distance from the FV to the XY line (4 meters) is 4/7 of the total distance. The distance from the TV to the XY line (3 meters) is 3/7 of the total distance. Therefore, The ratio is 4:3."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+     "question": " Front view and top view projection of point lies in above XY line in orthographic projection, then its X and Y coordinates are",
+     "answers": {
+       "a": "Positive and Negative",
+       "b": "Positive and Positive",
+       "c": "Negative and Positive",
+       "d": "Negative and Negative"
+      },
+      "explanations": {
+        "a": "The right answer is (c). If the front view projection and top view projection of point lies in below XY line in orthographic projection, then the corresponding quadrant is fourth quadrant. So, its X and Y coordinates are positive and negative.",
+        "b": "The right answer is (c). If the front view projection of point lies in above XY plane and top view projection of point lies in below XY line in orthographic projection, then the corresponding quadrant is first quadrant. So, its X and Y coordinates are positive and positive.",
+        "c": "Correct, The right answer is (c). If the front view and top view projection of point lies in above XY line in orthographic projection, then the corresponding quadrant is second quadrant. So, its X and Y coordinates are negative and positive",
+        "d": "The right answer is (c).If the front view projection of point lies in below XY plane and top view projection of point lies in above XY line in orthographic projection, then the corresponding quadrant is third quadrant. So, its X and Y coordinates are negative and negative"
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": "advanced"
     }
   ]
 }
